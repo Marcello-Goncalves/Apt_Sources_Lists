@@ -1,0 +1,22 @@
+###     DEBIAN BULLSEYE /etc/apt/sources.list           ------------------------------------------
+
+# - - - - - - - - - - mirrors - - - - - - - - - - - -
+# http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/
+# http://mirrors.ptisp.pt/debian/
+# http://debian.uni-duisburg-essen.de/debian/
+
+# http://security.debian.org/debian-security
+# http://deb.debian.org/debian
+# - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye           main contrib non-free
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye           main contrib non-free
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye-updates   main contrib non-free
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye-updates   main contrib non-free
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye-backports main contrib non-free
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/   bullseye-backports main contrib non-free
+
+deb     http://security.debian.org/debian-security      bullseye-security  main contrib non-free
+deb-src http://security.debian.org/debian-security      bullseye-security  main contrib non-free

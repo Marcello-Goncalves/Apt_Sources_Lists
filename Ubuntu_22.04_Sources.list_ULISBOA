@@ -1,0 +1,13 @@
+###     UBUNTU JAMMY /etc/apt/sources.list  ULISBOA           ---------------------------------------------------
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy           main restricted universe multiverse 
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy           main restricted universe multiverse 
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy-updates   main restricted universe multiverse 
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy-updates   main restricted universe multiverse 
+
+deb     http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy-backports main restricted universe multiverse 
+deb-src http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/ jammy-backports main restricted universe multiverse 
+
+deb     https://security.ubuntu.com/ubuntu/                   jammy-security  main restricted universe multiverse 
+deb-src https://security.ubuntu.com/ubuntu/                   jammy-security  main restricted universe multiverse
